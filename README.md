@@ -1,5 +1,13 @@
 # Image Processing using OpenCV
 
+
+# Program Developed By
+
+**Name:** Joel John Jobinse
+
+**Register Number:** 212223240062
+
+
 ## AIM
 Write a Python program using OpenCV to perform basic image processing operations including:
 
@@ -53,14 +61,6 @@ Crop a Region of Interest (ROI).
 
 ### Step 8
 Flip the image horizontally and vertically.
-
----
-
-# Program Developed By
-
-**Name:** Joel John Jobinse
-
-**Register Number:** 212223240062
 
 ---
 
