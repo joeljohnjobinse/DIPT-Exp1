@@ -153,7 +153,7 @@ plt.show()
 ```python
 cv2.putText(
     img,
-    "OpenCV Drawing",
+    "Joel John Jobinse",
     (50,50),
     cv2.FONT_HERSHEY_SIMPLEX,
     1,
